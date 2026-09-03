@@ -13,3 +13,6 @@ A simple calculator project, built incrementally version by version.
 ## Version 1.2
 - Added more kinds of operations (+, -, *, /, //, %, **).
 - Added input validation using try/except to handle invalid number input.
+
+## Version 1.3
+-Added math librery operations ()
